@@ -1,0 +1,15 @@
+# ninja log v6
+28	2767	7538023282733348	CMakeFiles/ADSProjectOne.dir/main.cpp.obj	2cab586a1313acb8
+35	2010	7538023282808818	CMakeFiles/ADSProjectOne.dir/Transaction.cpp.obj	5734d62549137fef
+42	2958	7538023282874203	CMakeFiles/ADSProjectOne.dir/Account.cpp.obj	32d0aab6972824c2
+3198	3573	7538023314427918	ADSProjectOne.exe	c27534918aae3359
+47	3198	7538023282924298	CMakeFiles/ADSProjectOne.dir/ForestTree.cpp.obj	d1aebc4f0c152dc5
+2	619	7539229808124804	build.ninja	4ecb38c678a06a2b
+50	930	7539338497783254	CMakeFiles/ADSProjectOne.dir/Transaction.cpp.obj	5734d62549137fef
+45	1124	7539338497743258	CMakeFiles/ADSProjectOne.dir/main.cpp.obj	2cab586a1313acb8
+54	1238	7539338497823306	CMakeFiles/ADSProjectOne.dir/Account.cpp.obj	32d0aab6972824c2
+60	1291	7539338497887298	CMakeFiles/ADSProjectOne.dir/ForestTree.cpp.obj	d1aebc4f0c152dc5
+1291	1490	7539338510197743	ADSProjectOne.exe	c27534918aae3359
+19	947	7539341671336536	CMakeFiles/ADSProjectOne.dir/Transaction.cpp.obj	5734d62549137fef
+37	775	7539341901053309	CMakeFiles/ADSProjectOne.dir/main.cpp.obj	2cab586a1313acb8
+776	915	7539341908439592	ADSProjectOne.exe	c27534918aae3359
