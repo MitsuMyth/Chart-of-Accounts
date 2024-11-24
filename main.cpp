@@ -1,13 +1,13 @@
 /**
- * Course: CSIS217 Section 1
+ * Course: CSIS217 Section 71
  * Advanced Data Structure Project composed of multiple files
  * Current File: main.cpp
  * Purpose: Provides a menu-driven interface for managing a forest tree
  *          of accounts, allowing users to perform operations such as
  *          adding accounts, managing transactions, searching accounts,
  *          and generating reports.
- * Author: [Your Name]
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  *
  * Description:
  *  - Main program that interacts with the ForestTree class.

@@ -1,12 +1,12 @@
 /**
- * Course: CSIS217 Section 1
+ * Course: CSIS217 Section 71
  * Advanced Data Structure Project composed of 6 files
  * Current File: ForestTree.h
  * Purpose: Defines the ForestTree class, managing a tree of accounts and
  *          supporting various operations like adding accounts, transactions,
  *          and generating hierarchical reports.
- * Author: [Your Name]
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  *
  * Fields:
  *  - unordered_map<string, Account*> accounts: Stores all accounts by their

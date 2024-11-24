@@ -1,12 +1,12 @@
 /**
- * Course: CSIS217 Section 1
+ * Course: CSIS217 Section 71
  * Advanced Data Structure Project composed of multiple files
  * Current File: ForestTree.cpp
  * Purpose: Implements the ForestTree class to manage the hierarchical
  *          structure of accounts, allowing operations like adding accounts,
  *          transactions, deleting transactions, and generating reports.
- * Author: [Your Name]
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  *
  * Description:
  *  - ForestTree: Represents a collection of accounts organized in a forest structure.

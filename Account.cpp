@@ -4,8 +4,8 @@
  * Current File: Account.cpp
  * Purpose: Implements the Account class, including methods for adding
  *          children, transactions, and printing account details.
- * Authors: Khaled Kaed Bey, Jad Aintrazy, Omar Mohtar, Abdallah Al Jawhary
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  */
 
 #include "Account.h"

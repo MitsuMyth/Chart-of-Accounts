@@ -1,11 +1,11 @@
 /**
-* Course: CSIS217 Section 1
+* Course: CSIS217 Section 71
  * Advanced Data Structure Project composed of 6 files
  * Current File: Transaction.h
  * Purpose: Defines the Transaction class representing a single transaction
  *          with details such as account number, amount, and transaction type.
- * Author: [Your Name]
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  *
  * Fields:
  *  - string accountNumber: The account associated with the transaction.

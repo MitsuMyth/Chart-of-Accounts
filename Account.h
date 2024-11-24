@@ -1,12 +1,12 @@
 /**
- * Course: CSIS217 Section 1
+ * Course: CSIS217 Section 71
  * Advanced Data Structure Project composed of 6 files
  * Current File: Account.h
  * Purpose: Defines the Account class, representing an account with a unique
  *          number, description, balance, parent-child relationships, and
  *          transactions.
- * Author: [Your Name]
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  *
  * Fields:
  *  - string number: The unique account number.

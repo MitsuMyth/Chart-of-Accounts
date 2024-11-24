@@ -4,8 +4,8 @@
  * Current File: Transaction.cpp
  * Purpose: Implements the Transaction class, including its constructor
  *          and overloaded << operator.
- * Authors: Khaled Kaed Bey, Jad Aintrazy, Omar Mohtar, Abdallah Al Jawhary
- * Date: [Date of Submission]
+ * Authors: Abdallah Al Jawhary, Jad Aintrazy, Omar Mohtar, Khaled Kaed Bey
+ * Date: 26/11/2024
  */
 #include <algorithm> // Required for all_of
 
